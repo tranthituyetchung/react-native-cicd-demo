@@ -162,7 +162,6 @@ android {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
              firebaseAppDistribution{
-                serviceCredentialsFile = "./reactnative-cicd-demo-9e460ba29a75"
                 appId="1:689406637362:android:ae84486f67774a8c2d532b"
                 releaseNotes="Test"
                 testers="tranthituyetchung1@gmail.com"
