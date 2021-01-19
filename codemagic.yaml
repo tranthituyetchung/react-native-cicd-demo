@@ -46,6 +46,9 @@ workflows:
           cd android
           chmod +x gradlew
           ./gradlew assembleRelease         
+      - name: Post-publish
+        script: |
+           cd android && ./gradlew assembleRelease appDistributionUploadRelease         
     artifacts:
       - android/app/build/outputs/**/**/*.apk
     
