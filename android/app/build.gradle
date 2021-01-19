@@ -163,7 +163,7 @@ android {
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
              firebaseAppDistribution{
                 //serviceCredentialsFile=".//reactnative-cicd-demo-9e460ba29a75"
-                appId="1:689406637362:android:ae84486f67774a8c2d532b"
+                appId="1:960174140159:android:63de9dedbe8f5af7f7baca"
                 releaseNotes="Test"
                 testers="tranthituyetchung1@gmail.com"
             }
