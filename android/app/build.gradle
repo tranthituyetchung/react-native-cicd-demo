@@ -162,6 +162,7 @@ android {
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
              firebaseAppDistribution{
+                appId="1:960174140159:android:63de9dedbe8f5af7f7baca"
                 releaseNotes="Test"
                 testers="tranthituyetchung1@gmail.com"
             }
