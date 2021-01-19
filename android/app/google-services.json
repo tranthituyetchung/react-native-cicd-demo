@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960174140159",
+    "project_id": "reactnative-cicd-demo",
+    "storage_bucket": "reactnative-cicd-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960174140159:android:63de9dedbe8f5af7f7baca",
+        "android_client_info": {
+          "package_name": "com.cicddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960174140159-im6eiiqh2o1buv0imr9epsvt31ag3f9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cicddemo",
+            "certificate_hash": "04ad27f35e312130059dce12b13346ed5f6dd329"
+          }
+        },
+        {
+          "client_id": "960174140159-jvo715kk4756h4r1q96ms7no8u1g1s45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDDpCC82oUjKRugpwaBP57MkiLxgCv6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960174140159-jvo715kk4756h4r1q96ms7no8u1g1s45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
