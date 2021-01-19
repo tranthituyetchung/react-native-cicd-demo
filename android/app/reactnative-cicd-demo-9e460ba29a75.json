@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reactnative-cicd-demo",
+  "private_key_id": "9e460ba29a754d29eb317b1f01eb299eaef96308",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRIsArpsV/bsCb\nCrtn6WNTl5NEf8Co99EtaATdOLzasOp8bdXHl+KbtDARqWpJIcRJ5YM9fyG4lC3Z\n6N0LY8dZm4HARezNWUmeoiVJD/1krMcCsDbOdq2zKt4wnTZnDGOTQjrGRIQke3OR\nbaB0bWYr4LS6SkU0JOgYwswkV1eefqlNeqvh+anaIPUs6UBaSzXSgnh62pbhIzPy\n9VItoC4vFCpoQsVoLdVDSsBZKyV5X8Ev4cZB2eeVr9CMXdradsuhUrROa1iVyKqA\ntMKinX4dJg9VtcB9YazsF343m4ae4NXlHAV5ZN6Mrvl71MBVsmbZMF/zMVgZfXaD\nETCGW/v1AgMBAAECggEAMh5nmt5v6KroTg+bm1qvYs5JrOoHyAaBsuXBeqmY+rjY\nrQKeb6N621EqjuUAk2+b7JCr674unN8oANehN5RNJzCQ/vzS8+BQuAtIL7L9CRYt\n6DtGGyMOXAhrMI/QhJAPwe/miXLMjzilmMXCpPw9tsi2Twmy/XzVwW9XgGMNHK5z\npBry1Xquxhc5A8tYMC6wuytsCk5AZBVWPaYhuKq7bK5hvr1cPyn5WnXd2cw0tqIC\nMOw4WSTO6QLWgkosLKlGbmafjp8vx1t8VO8g6cALWRHET+MjijS4SC1S8Ov6sTjO\nzwl1QNVymsE9/5rSCfhJ3EXipon275A3h6MdUqpA8QKBgQDsCNJ90OIEm68UyyMH\n7Rqa29v35wB+cgXZxAulSuG46tqbNZq7zi7ykKJg7UK57XvEKdGVszUbKpFetmU5\npT+oeEiqIY3N+6f9IaYSbJIVs2XJZmmqh2Va6kYnCVKgiF1rg1CVkr+nCgUMW+CF\nM6n06MZh+jyngMUJ0urswfJ/EQKBgQDi03QhuIsrhV+Q6YNLO2AtdsWuJuyMMpkb\nZZSIFH7lSbzA10UihPgsgA0vjwRDlQG1tId5nnjrLdTz6fv/Bycvv771q5RxUxGP\naNqrjSWpPljVLsX7DXDaA5WkB7mStyfY2RiwbliE8XW307w26isZ5BAdzqGxHRaa\nYwhuxxq2pQKBgBX8yGbyA2v8eLXOKog9fSH54ybXvQMKaiMcER2nuRk5v31/49ck\n4Ni1wnqW/4VEaygd4Sk51XOfZoVVJl7VVvXBprs6fvQ2QjLhZJAIzx74ZD37rVI2\nZKmwczKFus27hkBSrjoQvou38jpxgJvH8UggOwK7hdTwuOouXLYLZySRAoGAWPdJ\nIITKiUppvmPorFRgl9RzGqiHtUGPTfCcvncTgolWcGi+5Bg1YvbitRmqOXuzTPq+\n/FPM56l1UiofPdsnYpIZqzAeLAjB5Xbh9dGJyQT8QLl0y9BsyAYJ5mllPwd5qJMW\nHPVa4OH4Ix74Pq3ANAqAy8AlKVvYZrubLiAH+UUCgYBIXmI/OSFXuk4MblRVlVM+\nknCgO+33VJYHxjYPLU/7z3+XJcVMGYeEsXRxIZXW+baMiXyvJQqjd97jnfV+xqmu\ncKaUO9Miebt+oAH1eUQjCQom6k5kiW/WBIiKU8pYjK7RJTkE0/PMwloqXbdeiQM5\nrmJrMG0UvW2wQhbJL5hpww==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-app-distribution@reactnative-cicd-demo.iam.gserviceaccount.com",
+  "client_id": "100350165918730430862",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-app-distribution%40reactnative-cicd-demo.iam.gserviceaccount.com"
+}
